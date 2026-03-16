@@ -8,7 +8,7 @@ In this project I will share with you Esp32-Cam based DIY Camera. It can taking 
 
 Build your own retro-style digital camera for under $10! This project transforms a simple **ESP32-CAM** into a portable, lo-fi camera inspired by the classic Game Boy Camera aesthetic. It features a grayscale live preview on an OLED screen and saves high-resolution photos directly to a microSD card.
 
-> Don't forget to **Subscribe** to the [Channel](https://www.google.com/search?q=https://www.youtube.com/%40dsnindustries/%3Fsub_confirmation%3D1) and **Like** the video! 
+> Don't forget to **Subscribe** to the [Channel](https://www.youtube.com/%40dsnindustries/%3Fsub_confirmation%3D1) and **Like** the video! 
 > 
 > 
 
