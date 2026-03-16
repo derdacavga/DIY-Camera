@@ -31,26 +31,12 @@ The project uses **I2C communication** for the display to save precious GPIO pin
 
 | Component | Details | Note |
 | --- | --- | --- |
-| **Development Board** | **ESP32-CAM** (AI-Thinker) | The core microcontroller and camera module.
-
- |
-| **Display** | 0.96" SSD1306 OLED (I2C)
-
- | Provides the monochrome live preview and photo count.
-
- |
-| **Storage** | MicroSD Card | <br>**Required:** Must be formatted to **FAT32**.
-
- |
-| **Shutter** | Tactile Pushbutton | Used to trigger the camera and save photos.
-
- |
-| **Power (Portable)** | LiPo Battery & TP4056 | Includes a charger board and voltage booster (set to 5V).
-
- |
-| **Case** | 3D Printed Enclosure | Custom design created in Fusion 360.
-
- |
+| **Development Board** | **ESP32-CAM** (AI-Thinker) | The core microcontroller and camera module. |
+| **Display** | 0.96" SSD1306 OLED (I2C) | Provides the monochrome live preview and photo count.|
+| **Storage** | MicroSD Card | <br>**Required:** Must be formatted to **FAT32**. |
+| **Shutter** | Tactile Pushbutton | Used to trigger the camera and save photos. |
+| **Power (Portable)** | LiPo Battery & TP4056 | Includes a charger board and voltage booster (set to 5V). |
+| **Case** | 3D Printed Enclosure | Custom design created in Fusion 360. |
 
 ---
 
@@ -95,16 +81,4 @@ The project uses **I2C communication** for the display to save precious GPIO pin
 * **Air Hockey:** [Google Play Store](https://play.google.com/store/apps/details?id=com.DsnMechanics.AirHockey)
 * **Click Challenge:** [Google Play Store](https://play.google.com/store/apps/details?id=com.DsNMechanics.ClickChallenge)
 * **SkyScrapper:** [Google Play Store](https://play.google.com/store/apps/details?id=com.DsnMechanics.SkyScraper)
-
-**Would you like me to help you format a specific section for the color preview wiring or the library customization details?**
-
-## Games
-Maze Escape: https://play.google.com/store/apps/details?id=com.DsnMechanics.MazeEscape
-
-Air Hockey: https://play.google.com/store/apps/details?id=com.DsnMechanics.AirHockey
-
-Click Challenge: https://play.google.com/store/apps/details?id=com.DsNMechanics.ClickChallenge
-
-Flying Triangels: https://play.google.com/store/apps/details?id=com.DsnMechanics.Triangle
-
-SkyScrapper : https://play.google.com/store/apps/details?id=com.DsnMechanics.SkyScraper
+* **Flying Triangels:** [Google Play Store](https://play.google.com/store/apps/details?id=com.DsnMechanics.Triangle)
