@@ -72,8 +72,8 @@ The project uses **I2C communication** for the display to save precious GPIO pin
 
 ## 📂 Files & Links
 
-* **3D Models (STL/CAD):** [Available on my Cults3D Page](https://www.google.com/search?q=https://cults3d.com/en/users/DsnDesign) 
-* **Custom Design Services:** [Reach out on Fiverr](https://www.google.com/search?q=https://www.fiverr.com/derdacavga) 
+* **3D Models (STL/CAD):** [Available on my Cults3D Page](https://cults3d.com/en/users/DsnDesign) 
+* **Custom Design Services:** [Reach out on Fiverr](https://www.fiverr.com/derdacavga) 
 
 ## My Mobile Games
 
